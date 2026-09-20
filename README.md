@@ -1,4 +1,4 @@
-# did-it-for-the-plot
+# Modulation Classifier
 Automatic modulation classification of wireless signals using deep neural networks, with CNN/LSTM models trained on the RadioML 2016.10a dataset.
 The project explores neural network architectures such as CNNs and LSTMs using the RadioML 2016.10a dataset, with the goal of developing an effective automatic modulation classification system.
 
